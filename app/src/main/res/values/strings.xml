@@ -1,3 +1,4 @@
 <resources>
+    <string name="top_songs">Utwory tygodnia</string>
     <string name="app_name">MusicAppp</string>
 </resources>
